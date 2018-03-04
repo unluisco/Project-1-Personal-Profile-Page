@@ -1,11 +1,6 @@
 /* Global Layout Set-up */
-* {
-	box-sizing: border-box;
-}
 
 body {
-	margin: 0;
-	padding: 0;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	color: #222;
